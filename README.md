@@ -7,7 +7,7 @@ The Commented Part at the end is an example to show how a cursor can be implemen
 
 Various Subqueries have been executed to get some specific outputs
 
-*SOME OUTPUT EXAMPLE:*
+*SOME OUTPUT EXAMPLES:*
 
 ![image](https://user-images.githubusercontent.com/66909599/162169977-33e33db1-be1e-44c2-a4bc-0e0857f8920b.png)
 
