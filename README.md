@@ -15,3 +15,5 @@ Various Subqueries have been executed to get some specific outputs
 
 ![image](https://user-images.githubusercontent.com/66909599/162170264-ecd8063b-20e2-4c69-ad05-aa02e14a4159.png)
 
+![image](https://user-images.githubusercontent.com/66909599/162396502-c7303d04-1e8e-4ee7-b3fa-c4851dff6740.png)
+
