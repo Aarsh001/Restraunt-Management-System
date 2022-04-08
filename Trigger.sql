@@ -1,0 +1,12 @@
+DELIMITER //
+
+CREATE TRIGGER ingredients_after_use 
+AFTER DELETE ON INGREDIENT
+FOR EACH ROW
+
+BEGIN
+INSERT INTO Ingredient_OLD VALUES
+(NULL, OLD.Ingredient_Id, OLD.Ig_Name, OLD.Quantity, OLD.Description, OLD.Supp_Name , "DELETED", NOW());
+END//
+
+DELIMITER ;
